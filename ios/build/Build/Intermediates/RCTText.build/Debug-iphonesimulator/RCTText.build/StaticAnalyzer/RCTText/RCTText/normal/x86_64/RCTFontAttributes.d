@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/clementtan/votepic/node_modules/react-native/Libraries/Text/RCTFontAttributes.m \
+  /Users/clementtan/votepic/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Users/clementtan/votepic/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/clementtan/votepic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
